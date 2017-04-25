@@ -2,6 +2,7 @@
   "name": "ironshark/typo3-extension-builder",
   "type": "typo3-cms-extension",
   "description": "Tool to kickstart and maintain TYPO3 extensions",
+  "version": "1.0.0",
   "keywords": [
     "TYPO3",
     "extension",
